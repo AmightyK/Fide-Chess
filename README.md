@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FIDE & Google Efficient Chess AI Challenge Submission
 ## Ethereal Chess Engine - Memory Optimized Version
 
@@ -62,3 +63,6 @@ Ethereal Chess Engine is a competitive chess engine optimized for memory-constra
 - Memory efficiency without sacrificing playing strength
 - Robust time management for 10s games
 - Optimization for single-core performance
+=======
+# Fide-Chess
+>>>>>>> 61d4fdfeb680a3da1c4b5866e1588922e8d2456e
